@@ -1,1 +1,2 @@
-This is second using git
+This is Third using git
+This is how to use git
