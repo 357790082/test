@@ -3,3 +3,4 @@ This is how to use git
 This is how to ignore file
 ZY operate this file
 ZY second operate this file
+ZY third operate this file
